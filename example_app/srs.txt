@@ -1,0 +1,2 @@
+Overview:
+The Production Facility system manages the order lifecycle, product states, and allows for efficient communication between Client, Production Machine, and Administrator. It handles order placements, status updates, product management, and monitoring of the entire production process.
